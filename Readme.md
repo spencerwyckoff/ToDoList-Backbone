@@ -1,3 +1,3 @@
-## Yo, I'm a Readme
+To Do List built using Backbone.
 
-You should probably update me so people looking at your code have an idea what it is being used for :)
+First time using Backbone as a framework.
